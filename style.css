@@ -1,0 +1,27 @@
+.topdiv {
+    background-color: sandybrown;
+    color: white;
+    text-align: center;
+}
+
+button {
+    width: 450px;
+    height: 50px;
+    background-color: dodgerblue;
+    color: white;
+    font-size: larger;
+}
+
+.foodbuttons {
+    width: 350px;
+    height: 50px;
+    background-color: tomato;
+    color: white;
+    font-size: larger;
+}
+
+.headings {
+    background-color: gray;
+    color: white;
+    text-transform: uppercase;
+}
